@@ -12,43 +12,30 @@ categories:
   - name: 置顶
     icon: fas fa-star # 分类图标
     sites:
-      - name: Linux.do # 站点名称
-        url: https://linux.do/ # http/https URL（favicon 模式将尝试加载站点图标）
-        icon: fab fa-linux # 手动图标：manual 模式使用；favicon 模式下作为回退
-        description: 新的理想型社区 # 站点描述
-      - name: Menav
-        url: https://rbetree.github.io/menav
+      - name: Rの日川簿
+        url: https://r33.it/
+        icon: fab fa-code
+        description: 使用WP的Blog
+      - name: Am-I-Online
+        url: https://s.r33.it/
         icon: fas fa-star
-        description: 个人导航站
-        faviconUrl: assets/menav.svg
-      - name: Google
-        url: https://www.google.com
-        icon: fab fa-google
-        description: 全球最大的搜索引擎
+        description: 视奸我(Half-Deprecated)
+      - name: R's Blog
+        url: https://b.6r.nz/
+        icon: fab fa-code
+        description: 使用Halo的新Blog，仍在准备中
+      - name: Steam 社区 :: R.
+        url: https://www.github.com
+        icon: fab fa-steam
+        description: Steam个人主页，看到通过好友申请
       - name: GitHub
         url: https://www.github.com
         icon: fab fa-github
-        description: 代码托管平台
-      - name: Stack Overflow
-        url: https://stackoverflow.com
-        icon: fab fa-stack-overflow
-        description: 程序员问答社区
-      - name: ChatGPT
-        url: https://chat.openai.com
-        icon: fas fa-robot
-        description: AI智能助手
+        description: 代码托管
       - name: YouTube
         url: https://www.youtube.com
         icon: fab fa-youtube
         description: 视频分享平台
-      - name: Twitter
-        url: https://twitter.com
-        icon: fab fa-twitter
-        description: 社交媒体平台
-      - name: Reddit
-        url: https://www.reddit.com
-        icon: fab fa-reddit
-        description: 社区讨论平台
   - name: 学习资源
     icon: fas fa-graduation-cap
     sites:
@@ -64,33 +51,25 @@ categories:
         url: https://leetcode.cn
         icon: fas fa-code
         description: 算法刷题平台
-  - name: 设计资源
-    icon: fas fa-palette
+  - name: AI
+    icon: fas fa-brain
     sites:
-      - name: Figma
-        url: https://www.figma.com
-        icon: fab fa-figma
-        description: 在线设计工具
-      - name: Dribbble
-        url: https://dribbble.com
-        icon: fab fa-dribbble
-        description: 设计师社区
-      - name: IconFont
-        url: https://www.iconfont.cn
-        icon: fas fa-icons
-        description: 图标资源库
-      - name: Adobe XD
-        url: https://www.adobe.com/products/xd.html
-        icon: fab fa-adobe
-        description: UI/UX设计工具
-      - name: Sketch
-        url: https://www.sketch.com
-        icon: fas fa-pencil-ruler
-        description: 矢量设计工具
-      - name: Canva
-        url: https://www.canva.com
-        icon: fas fa-paint-brush
-        description: 在线平面设计
+      - name: Claude
+        url: https://www.claude.ai
+        icon: fas fa-claude
+        description: 最强AI，Anthropic Safeguard Team警告
+      - name: ChatGPT
+        url: https://www.chatgpt.com
+        icon: fas fa-chatgpt
+        description: 次于Claude的低风控强AI
+      - name: Gemini
+        url: https://gemini.google
+        icon: fas fa-google
+        description: 背靠大公司，大范围免费送会员
+      - name: DeepSeek
+        url: https://deepseek.com
+        icon: fas fa-whale
+        description: 蓝色大肥鱼
   - name: 在线工具
     icon: fas fa-wrench
     sites:
@@ -98,10 +77,6 @@ categories:
         url: https://jsoneditoronline.org
         icon: fas fa-code-branch
         description: JSON在线编辑器
-      - name: Can I Use
-        url: https://caniuse.com
-        icon: fas fa-browser
-        description: 浏览器兼容性查询
       - name: TinyPNG
         url: https://tinypng.com
         icon: fas fa-compress
@@ -110,34 +85,18 @@ categories:
         url: https://carbon.now.sh
         icon: fas fa-code
         description: 代码图片生成器
-      - name: Excalidraw
-        url: https://excalidraw.com
-        icon: fas fa-pencil-alt
-        description: 手绘风格图表工具
   - name: 云服务平台
     icon: fas fa-cloud
     sites:
       - name: Cloudflare
         url: https://www.cloudflare.com
         icon: fas fa-cloud
-        description: CDN与安全服务
+        description: 大善人
       - name: Vercel
         url: https://vercel.com
         icon: fas fa-server
-        description: 前端部署平台
+        description: 前端部署
       - name: Netlify
         url: https://www.netlify.com
         icon: fas fa-globe
         description: 静态网站托管
-      - name: AWS
-        url: https://aws.amazon.com
-        icon: fab fa-aws
-        description: 亚马逊云服务
-      - name: Azure
-        url: https://azure.microsoft.com
-        icon: fab fa-microsoft
-        description: 微软云平台
-      - name: Google Cloud
-        url: https://cloud.google.com
-        icon: fab fa-google
-        description: 谷歌云平台
