@@ -14,7 +14,7 @@ categories:
     sites:
       - name: Rの日川簿
         url: https://r33.it/
-        icon: fab fa-wordpress
+        icon: fa-brands fa-wordpress
         description: 使用WP的Blog
       - name: Am-I-Online
         url: https://s.r33.it/
@@ -22,11 +22,11 @@ categories:
         description: 视奸我(Half-Deprecated)
       - name: R's Blog
         url: https://b.6r.nz/
-        icon: fab fa-blog
+        icon: fa-solid fa-blog
         description: 使用Halo的新Blog，仍在准备中
       - name: "Steam 社区 :: R."
         url: https://steamcommunity.com/id/R33Ya
-        icon: fab fa-steam
+        icon: fa-brands fa-steam
         description: Steam个人主页，看到通过好友申请
       - name: GitHub
         url: https://www.github.com
@@ -56,19 +56,19 @@ categories:
     sites:
       - name: Claude
         url: https://www.claude.ai
-        icon: fas fa-claude
+        icon: fa-brands fa-claude
         description: 最强AI，Anthropic Safeguard Team警告
       - name: ChatGPT
         url: https://www.chatgpt.com
-        icon: fas fa-chatgpt
+        icon: fa-brands fa-chatgpt
         description: 次于Claude的低风控强AI
       - name: Gemini
         url: https://gemini.google
-        icon: fas fa-google
+        icon: fa-brands fa-google
         description: 背靠大公司，大范围免费送会员
       - name: DeepSeek
         url: https://deepseek.com
-        icon: fas fa-whale
+        icon: fa-solid fa-whale
         description: 蓝色大肥鱼
   - name: 在线工具
     icon: fas fa-wrench
