@@ -1,65 +1,25 @@
-# 关于 MeNav
+<div align="center">
 
-MeNav 是一个用于生成**个人导航站**的项目：
+<img src="https://files.seeusercontent.com/2026/10/17/Vsx2/HKcf-aiaAAAKrJ6-1.jpg" width="120" height="120" style="border-radius: 50%;" alt="Avatar" />
 
-- **构建期**：使用 Node.js 作为静态站点生成器（SSG），把配置与内容渲染为 `dist/`。
-- **运行时**：输出一份轻量的浏览器 runtime，用于页面交互与增强。
+# R.
 
-这页用于放置项目的说明与使用要点（你也可以改成自己的“关于”页面）。
+> *A Tech Lover*
 
-## 适合谁
+---
 
-- 想要一个**可自托管、可版本管理**的导航页/起始页
-- 希望用 **YAML + Markdown** 管理站点结构与内容
-- 更偏好“生成静态文件再部署”，而不是运行时依赖服务端
+</div>
 
-## 快速开始
+一名普普通通的独立开发者。~~熟练掌握~~ 深度依赖 AI 与各类 Agent 协同，擅长 **Vibe Coding** 与 **Ctrl-C / Ctrl-V** 驱动开发。
 
-```bash
-npm install
-npm run dev
-```
+### 🛠️ 公开项目
 
-- `npm run dev`：本地开发（生成站点并启动本地服务）
-- `npm run build`：生成生产构建（输出到 `dist/`）
+* [Am-I-Online](https://github.com/r33ya/Am-I-Online)
+* [Huawei-KoBackup-Decrypt](https://github.com/r33ya/Huawei-KoBackup-Decrypt)
 
-## 项目结构（常用）
+### 🎮 找我摸鱼
 
-- `src/generator/`：构建期生成器（Node.js）
-- `src/runtime/`：浏览器 runtime（最终会被打包到 `dist/script.js`）
-- `templates/`：Handlebars 模板
-- `config/`：站点配置（YAML）
-- `content/`：内容页（Markdown），例如本文件
-- `dist/`：构建输出（可直接部署）
-- `dev/`：网络缓存（gitignored）
+想知道我有没有在摸鱼？欢迎加个 Steam 好友，随时通过实时状态在线“视奸”：
 
-## 配置说明（概念）
-
-- MeNav 的站点配置以 `config/` 下的 YAML 为主。
-- **注意**：如果存在 `config/user/`，它会**完全替换** `config/_default/`（不是 merge）。
-
-## 内容页（Markdown）说明
-
-- 内容页的 Markdown 会在**构建期**渲染为 HTML。
-- 内容页通常用于：关于、帮助、使用说明、更新记录等。
-
-## 安全与链接处理
-
-MeNav 对链接会做安全处理（例如限制危险的 URL scheme），以降低把不安全链接渲染到页面上的风险。
-
-如果你在导航数据或内容页里粘贴了外部链接，建议优先使用 `https://`。
-
-## 部署
-
-`npm run build` 后将生成的 `dist/` 部署到任意静态站点托管即可（例如 Nginx、GitHub Pages、Cloudflare Pages 等）。
-
-## 维护建议
-
-- 把你的配置、内容页都纳入 git 版本管理
-- 变更后跑一遍：
-
-```bash
-npm run check
-```
-
-（会依次执行语法检查、测试与构建）
+<!-- 将 YOUR_STEAM_FRIEND_LINK 替换为你的 Steam 好友代码或邀请链接 -->
+* [Steam Profile / Add Friend](https://steamcommunity.com/id/R33Ya)

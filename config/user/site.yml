@@ -6,7 +6,7 @@ title: Nav for R.
 description: Personal Nav Site
 author: R.
 favicon: menav.svg
-logo_text: MeNav
+logo_text: Nav for R.
 
 icons:
   # 站点卡片图标模式：
@@ -95,16 +95,16 @@ github:
 # 社交媒体链接：显示在侧边栏底部；可按需增删
 social:
   - name: GitHub
-    url: https://github.com
+    url: https://github.com/r33ya
     icon: fab fa-github
 #  - name: Telegram
 #    url: https://t.me
 #    icon: fab fa-telegram
   - name: Twitter
-    url: https://x.com
+    url: https://x.com/r33ya1
     icon: fab fa-twitter
   - name: Steam
-    url: https://steamcommunity.com/
+    url: https://steamcommunity.com/id/R33Ya
     icon: fab fa-steam
 
 # 导航配置（顺序第一项即首页/默认打开页）
@@ -115,9 +115,6 @@ navigation:
   - name: 项目
     icon: fas fa-project-diagram
     id: projects
-  - name: 书签
-    icon: fas fa-bookmark
-    id: bookmarks
   - name: 关于
     icon: fas fa-file-alt
     id: content
