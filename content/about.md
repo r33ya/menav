@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="https://files.seeusercontent.com/2026/10/17/Vsx2/HKcf-aiaAAAKrJ6-1.jpg" width="120" height="120" style="border-radius: 50%;" alt="Avatar" />
+![Avatar](https://files.seeusercontent.com/2026/10/17/Vsx2/HKcf-aiaAAAKrJ6-1.jpg)
 
 # R.
 
@@ -8,7 +6,6 @@
 
 ---
 
-</div>
 
 一名普普通通的独立开发者。~~熟练掌握~~ 深度依赖 AI 与各类 Agent 协同，擅长 **Vibe Coding** 与 **Ctrl-C / Ctrl-V** 驱动开发。
 
